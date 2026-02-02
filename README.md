@@ -52,5 +52,9 @@ O VianaStore é um sistema desktop desenvolvido para o gerenciamento de produtos
 
 \- Integração com banco de dados MySQL
 
+---
+
+Projeto versionado para fins acadêmicos – Etapa 5 do PI.
+
 
 
